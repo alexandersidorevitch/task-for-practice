@@ -1,1 +1,1 @@
-# tasks_for_pratice
+# task_for_practice
